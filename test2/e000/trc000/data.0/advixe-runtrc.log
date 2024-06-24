@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<log version="1.0" tool="runtool">
+
+<msg id="1" tool="runtool">
+  <type>log-start</type>
+  <arg>2024/06/24 15:35:46</arg>
+</msg>
+<msg id="2" tool="runtool">
+  <type>bandwidth-measurement-starts</type>
+</msg>
+<msg id="3" tool="runtool">
+  <type>bandwidth-measurement-done</type>
+</msg>
+<msg id="4" tool="runtool">
+  <type>collector-starts</type>
+</msg>
+<msg id="5" tool="runtool">
+  <type>marker-file</type>
+  <arg>/home/user7/HPCAP/test2/e000/trc000/trc000.advixe</arg>
+</msg>
+<msg id="6" tool="trc">
+  <type>PROCESS_START</type>
+  <arg>/home/user7/HPCAP/a.out</arg>
+  <arg>84294</arg>
+  <severity>INFO</severity>
+  <timestamp>Mon Jun 24 08:06:01 2024</timestamp>
+</msg>
+<msg id="7" tool="trc">
+  <type>FAIL_OPEN_FILE</type>
+  <arg></arg>
+  <severity>ERROR</severity>
+  <timestamp>Mon Jun 24 08:06:01 2024</timestamp>
+</msg>
+<msg id="8" tool="trc">
+  <type>PROCESS_ANALYSIS_MODE</type>
+  <arg>full</arg>
+  <severity>INFO</severity>
+  <timestamp>Mon Jun 24 08:06:01 2024</timestamp>
+</msg>
+<msg id="9" tool="trc">
+  <type>LOAD_MODULE</type>
+  <arg>/home/user7/HPCAP/a.out</arg>
+  <arg>0x400000</arg>
+  <arg>0x601047</arg>
+  <arg>yes</arg>
+  <severity>INFO</severity>
+  <timestamp>Mon Jun 24 08:06:01 2024</timestamp>
+</msg>
+<msg id="10" tool="trc">
+  <type>LOAD_MODULE</type>
+  <arg>/lib64/ld-linux-x86-64.so.2</arg>
+  <arg>0x7f45be07f000</arg>
+  <arg>0x7f45be2a214f</arg>
+  <arg>yes</arg>
+  <severity>INFO</severity>
+  <timestamp>Mon Jun 24 08:06:01 2024</timestamp>
+</msg>
+<msg id="11" tool="trc">
+  <type>LOAD_MODULE</type>
+  <arg>[vdso]</arg>
+  <arg>0x7ffd7cbf1000</arg>
+  <arg>0x7ffd7cbf1e6c</arg>
+  <arg>no</arg>
+  <severity>INFO</severity>
+  <timestamp>Mon Jun 24 08:06:01 2024</timestamp>
+</msg>
+<msg id="12" tool="trc">
+  <type>LOAD_MODULE</type>
+  <arg>/lib64/libc.so.6</arg>
+  <arg>0x7f45a8067000</arg>
+  <arg>0x7f45a84341ff</arg>
+  <arg>yes</arg>
+  <severity>INFO</severity>
+  <timestamp>Mon Jun 24 08:06:01 2024</timestamp>
+</msg>
+<msg id="13" tool="trc">
+  <type>UNLOAD_MODULE</type>
+  <arg>/home/user7/HPCAP/a.out</arg>
+  <severity>INFO</severity>
+  <timestamp>Mon Jun 24 08:06:01 2024</timestamp>
+</msg>
+<msg id="14" tool="trc">
+  <type>UNLOAD_MODULE</type>
+  <arg>/lib64/ld-linux-x86-64.so.2</arg>
+  <severity>INFO</severity>
+  <timestamp>Mon Jun 24 08:06:01 2024</timestamp>
+</msg>
+<msg id="15" tool="trc">
+  <type>UNLOAD_MODULE</type>
+  <arg>[vdso]</arg>
+  <severity>INFO</severity>
+  <timestamp>Mon Jun 24 08:06:01 2024</timestamp>
+</msg>
+<msg id="16" tool="trc">
+  <type>UNLOAD_MODULE</type>
+  <arg>/lib64/libc.so.6</arg>
+  <severity>INFO</severity>
+  <timestamp>Mon Jun 24 08:06:01 2024</timestamp>
+</msg>
+<msg id="17" tool="runtool">
+  <type>app-exit-code</type>
+  <arg>139</arg>
+</msg>
+<msg id="18" tool="runtool">
+  <type>marker-file</type>
+  <arg>/home/user7/HPCAP/test2/e000/trc000/trc000.advixe</arg>
+</msg>
+<msg id="19" tool="runtool">
+  <type>collector-done</type>
+</msg>
+<msg id="20" tool="runtool">
+  <type>log-end</type>
+  <arg>2024/06/24 15:36:05</arg>
+</msg>
+
+</log>
+

@@ -1,0 +1,10 @@
+
+=== Start: [2024/06/24 15:35:46] === 
+Peak bandwidth measurement started...
+Peak bandwidth measurement finished.
+Analysis started...
+Result file: /home/user7/HPCAP/test2/e000/trc000/trc000.advixe 
+Application exit code: 139 
+Result file: /home/user7/HPCAP/test2/e000/trc000/trc000.advixe 
+Analysis completed
+=== End: [2024/06/24 15:36:05] === 
